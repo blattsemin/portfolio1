@@ -75,7 +75,7 @@ http://scripts.sil.org/OFL
 
 
 body{
-    font:'Pretendard'
+    font-family:'Pretendard';
 }
 
 *{
